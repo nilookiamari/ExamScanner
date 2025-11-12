@@ -1,168 +1,117 @@
-\# Exam Scanner V1.0
+# Exam Scanner V1.0
 
+<b>Developed by:</b> Niloofar Kiamari  
+<br/><br/>
 
+<b>Exam Scanner V1.0</b> is a mobile application designed to automate the feedback process by analyzing exam papers and generating detailed feedback reports.  
+This tool enhances feedback efficiency by significantly reducing grading time and improving the quality of feedback for students.
+<br/><br/>
 
-\*\*Developed by:\*\* Niloofar Kiamari  
+---
 
+## <b>App Description</b>
 
+<b>Exam Scanner V1.0</b> streamlines the process of providing detailed feedback to students by scanning exam papers and automatically counting marks related to each topic.  
+<br/><br/>
 
-Exam Scanner V1.0 is a mobile application designed to \*\*automate the feedback process\*\* by analyzing exam papers and generating detailed feedback reports.  
+Here's how the buttons work:
+<br/><br/>
 
-This tool enhances feedback efficiency by \*\*reducing grading time\*\* and improving the \*\*quality of feedback\*\* for students.
+<b>1. Capture Image:</b>  
+The user takes a photo of each page of the exam.  
+Captured images do not need to include the entire page accurately but should include all marks within the page and exclude anything outside of the exam paper.  
+Images should be captured only from exam papers, which should be black and white with colorful marks.  
+<br/><br/>
 
+<b>2. Count Marks:</b>  
+The app automatically counts the marks related to each topic on the captured exam page.  
+Marks should be drawn with thick and colored markers for accurate detection.  
+One line should be drawn for each mark.  
+<br/><br/>
 
+<b>3. Next Topic:</b>  
+The user enters the topic related to the next question in the exam.  
+<br/><br/>
+
+<b>4. Finalize:</b>  
+The app finalizes the current exam and prepares it for analysis.  
+<br/><br/>
+
+<b>5. New Exam:</b>  
+The user starts a new exam paper.  
+<br/><br/>
+
+<b>6. Exit:</b>  
+The user can exit the application by pressing the Exit button.  
+<br/><br/>
+
+<i>*If you have any questions, leave them in the comment section and they will be answered accordingly.*</i>  
+<br/><br/>
+
+---
+
+## <b>Features</b>
+
+- Capture multiple pages of exams  
+- Detect and count marks per topic automatically  
+- Export results to Excel for feedback reports  
+- Simple and intuitive user interface  
+- Quick setup for multiple exams  
+
+---
+
+## <b>Tech Stack</b>
+
+- <b>Android (Java)</b>  
+- <b>OpenCV</b> for image processing  
+- <b>JXL</b> for Excel report generation  
+<br/><br/>
+
+---
+
+## <b>How It Works</b>
+
+1. Enter the number of pages and topics for the exam.  
+2. Capture images of each exam page using the app.  
+3. The app uses computer vision to detect and count marks.  
+4. Export the results as an Excel file for detailed feedback.  
+<br/><br/>
+
+---
+
+## <b>Future Improvements</b>
+
+- OCR-based student name detection  
+- Cloud storage for exam data  
+- AI-assisted grading and feedback  
+<br/><br/>
 
 ---
 
 
+## <b>Screenshots</b>
 
-\## Features
+### Cover
+![Capture Page](1723131423042.jpg)
 
+### Capture Page
+![Capture Page](1723131359780.jpg)
 
+### Exam paper information
+![Count Marks](1723131375317.jpg)
 
-\- Capture multiple pages of an exam
+### Example of captured exam page
+![Finalize Exam](1723131393863.jpg)
 
-\- Count marks automatically per topic
-
-\- Generate detailed Excel feedback reports
-
-\- Easy-to-use interface for teachers and students
-
-\- Supports starting new exams and managing multiple topics
-
-
-
----
+### About
+![Finalize Exam](1723131411194.jpg)
 
 
-
-\## How the App Works
-
-
-
-\### Buttons and Functionality:
-
-
-
-1\. \*\*Capture Image:\*\*  
-
-&nbsp;  - Take a photo of each page of the exam.  
-
-&nbsp;  - Images should include all marks on the page, exclude anything outside the exam paper.  
-
-&nbsp;  - Works best with black-and-white exam papers and colored marks.  
-
-
-
-2\. \*\*Count Marks:\*\*  
-
-&nbsp;  - Automatically counts marks related to each topic.  
-
-&nbsp;  - Marks should be drawn with thick, colored markers.  
-
-&nbsp;  - One line per mark ensures accurate detection.  
-
-
-
-3\. \*\*Next Topic:\*\*  
-
-&nbsp;  - Enter the topic for the next question in the exam.  
-
-
-
-4\. \*\*Finalize:\*\*  
-
-&nbsp;  - Finalizes the current exam and prepares it for analysis.  
-
-
-
-5\. \*\*New Exam:\*\*  
-
-&nbsp;  - Start scanning a new exam paper.  
-
-
-
-6\. \*\*Exit:\*\*  
-
-&nbsp;  - Exit the application.
-
-
-
-> If you have any questions, leave them in the comment section and they will be answered accordingly.
-
-
+<br/><br/>
 
 ---
 
+## <b>License</b>
 
-
-\## Tech Stack
-
-
-
-\- \*\*Android (Java)\*\*  
-
-\- \*\*OpenCV\*\* for image processing  
-
-\- \*\*JXL\*\* library for Excel report generation  
-
-
-
----
-
-
-
-\## How It Works
-
-
-
-1\. Enter the number of pages and topics for the exam.  
-
-2\. Capture images of each page using the app.  
-
-3\. The app automatically counts marks per topic using computer vision.  
-
-4\. Export the results as an Excel file for detailed feedback.
-
-
-
----
-
-
-
-\## Future Improvements
-
-
-
-\- Add OCR for student names  
-
-\- Cloud storage for exam results  
-
-\- AI-assisted marking  
-
-
-
----
-
-
-
-\## Screenshots / Demo
-
-
-
-\*(Add screenshots or GIFs of the app interface here)\*  
-
-
-
----
-
-
-
-\## License
-
-
-
-This project is licensed under the MIT License.
-
-
+This project is licensed under the <b>MIT License</b>.  
 
