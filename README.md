@@ -92,8 +92,8 @@ The user can exit the application by pressing the Exit button.
 ![Capture Page](screenshots/1723131423042.jpg)
 
 <p align="left">
-  <img src="screenshots/1723131393863.jpg" width="250"/>
-  <img src="screenshots/1723131411194.jpg" width="250"/>
+  <img src="screenshots/1723131393863.jpg" width="300"/>
+  <img src="screenshots/1723131411194.jpg" width="300"/>
 </p>
 
 <p align="left">
