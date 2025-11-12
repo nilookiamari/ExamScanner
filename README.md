@@ -86,25 +86,17 @@ The user can exit the application by pressing the Exit button.
 
 ---
 
-
 ## <b>Screenshots</b>
 
 ### Cover
 ![Capture Page](screenshots/1723131423042.jpg)
 
-### Capture Page
-![Capture Page](screenshots/1723131359780.jpg)
-
-### Exam paper information
-![Count Marks](screenshots/1723131375317.jpg)
-
-### Example of captured exam page
-![Finalize Exam](screenshots/1723131393863.jpg)
-
-### About
-![Finalize Exam](screenshots/1723131411194.jpg)
-
-
+<p align="center">
+  <img src="screenshots/1723131359780.jpg" width="250"/>
+  <img src="screenshots/1723131375317.jpg" width="250"/>
+  <img src="screenshots/1723131393863.jpg" width="250"/>
+  <img src="screenshots/1723131411194.jpg" width="250"/>
+</p>
 <br/><br/>
 
 ---
