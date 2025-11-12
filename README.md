@@ -3,8 +3,8 @@
 <b>Developed by:</b> Niloofar Kiamari  
 <br/><br/>
 
-<b>Exam Scanner V1.0</b> is a mobile application designed to automate the feedback process by analyzing exam papers and generating detailed feedback reports.  
-This tool enhances feedback efficiency by significantly reducing grading time and improving the quality of feedback for students.
+<b>Exam Scanner V1.0</b> is a mobile Android application designed to automate the feedback process by analyzing exam papers and generating detailed feedback reports.  
+This tool enhances feedback efficiency by significantly reducing feedback time and improving the overall quality of feedback provided to students.
 <br/><br/>
 
 ---
@@ -30,7 +30,7 @@ One line should be drawn for each mark.
 <br/><br/>
 
 <b>3. Next Topic:</b>  
-The user enters the topic related to the next question in the exam.  
+The user enters the topic corresponding to each question in the exam.
 <br/><br/>
 
 <b>4. Finalize:</b>  
@@ -45,8 +45,6 @@ The user starts a new exam paper.
 The user can exit the application by pressing the Exit button.  
 <br/><br/>
 
-<i>*If you have any questions, leave them in the comment section and they will be answered accordingly.*</i>  
-<br/><br/>
 
 ---
 
@@ -71,7 +69,7 @@ The user can exit the application by pressing the Exit button.
 
 ## <b>How It Works</b>
 
-1. Enter the number of pages and topics for the exam.  
+1. Enter the number of pages for the exam and the topics of each question.  
 2. Capture images of each exam page using the app.  
 3. The app uses computer vision to detect and count marks.  
 4. Export the results as an Excel file for detailed feedback.  
@@ -92,19 +90,19 @@ The user can exit the application by pressing the Exit button.
 ## <b>Screenshots</b>
 
 ### Cover
-![Capture Page](1723131423042.jpg)
+![Capture Page](screenshots/1723131423042.jpg)
 
 ### Capture Page
-![Capture Page](1723131359780.jpg)
+![Capture Page](screenshots/1723131359780.jpg)
 
 ### Exam paper information
-![Count Marks](1723131375317.jpg)
+![Count Marks](screenshots/1723131375317.jpg)
 
 ### Example of captured exam page
-![Finalize Exam](1723131393863.jpg)
+![Finalize Exam](screenshots/1723131393863.jpg)
 
 ### About
-![Finalize Exam](1723131411194.jpg)
+![Finalize Exam](screenshots/1723131411194.jpg)
 
 
 <br/><br/>
