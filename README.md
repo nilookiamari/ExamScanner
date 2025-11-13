@@ -105,7 +105,8 @@ The user can exit the application by pressing the Exit button.
 ---
 
 ## 🎥 Demo Video
-[Download Demo (MP4)]([https://github.com/nilookiamari/Exam_Scanner/releases/download/V1.0/demo.mp4](https://github.com/nilookiamari/Exam_Scanner/releases/download/V1.0-demo/video_2024-06-23_22-00-49.mp4))
+[Download Demo (MP4)]([https://github.com/nilookiamari/Exam_Scanner/releases/download/V1.0-demo/video_2024-06-23_22-00-49.mp4])
+
 
 ---
 ## <b>License</b>
