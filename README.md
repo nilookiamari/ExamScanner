@@ -79,9 +79,9 @@ The user can exit the application by pressing the Exit button.
 
 ## <b>Future Improvements</b>
 
-- OCR-based student name detection  
-- Cloud storage for exam data  
-- AI-assisted grading and feedback  
+- Add OCR to read student names automatically  
+- Cloud storage for feedback results  
+- AI-based suggestions for feedback  
 <br/><br/>
 
 ---
